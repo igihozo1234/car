@@ -1,0 +1,128 @@
+
+
+.first{
+	background-color:powderblue;
+	width:200px;
+	height:200px;
+	padding:20px;
+	border:10px solid;
+
+	
+}
+.second{
+	background-color:red;
+	width:200px;
+	height:200px;
+	padding:10px;
+	border:20px solid;
+	margin-left:1200px;
+
+	
+}
+.third{
+	background-color:blue;
+	height:200px;
+	width:130px;
+	
+}
+.four{
+	background-color:powderblue;
+	margin-bottom:10px;
+}
+ .four ul {
+	list-style-type:square;
+	background-color:pink;
+	margin-bottom:20px;
+	
+}
+
+	
+
+ol{
+	background-color:skyblue;
+}
+table{
+	height:300px;
+	width:400px;
+	border-collapse:collapse;
+
+
+	
+		}
+	th{
+		background-color:green;
+		width:100px;
+		
+	}
+tr, td{
+		color:violet;
+		
+	}
+
+
+
+
+
+	img{
+	height:7%;
+	width:7%;
+	left:0%;
+	
+	border-radius:50%;
+	position:absolute;
+	top:0%;
+	
+	}
+	.pic img{
+		position:absolute;
+		width:7%;
+		height:7%;
+		margin-left:40%;
+		margin-top:0%;
+		border-radius:50%; 
+	}
+		.one{
+	border:6px solid;
+	width:300px;
+	height:50px;
+	overflow:auto;
+	background-color:
+	
+	}
+.nav ul li{
+float:left;
+padding:20px ;
+display:inline-block;
+
+
+}
+
+.navbar ol li{
+float:right;
+padding:20px ;
+display:inline-block;
+
+}
+.two{
+	background-color:powderblue;
+		width:200px;
+		height:200px;
+		 padding:20px;
+		 border:10px solid;
+	
+}
+.three{
+	background-color:red;
+		width:200px;
+		height:200px;
+		 padding:10px;
+		border:20px solid ;
+		 margin-left:200px;
+		 border-style:solid;
+}
+
+
+		
+
+	
+

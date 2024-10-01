@@ -1,0 +1,27 @@
+.navbar{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	background-color:powderblue;
+	padding:10px 20px;
+
+
+
+
+
+}
+footer{
+height:180px;
+padding:10px 20px;
+color:white;
+
+
+background-color:#000;
+}
+.header{
+	text-align:center;
+}
+
+
+	
+

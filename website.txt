@@ -1,0 +1,8 @@
+<! Doctype html>
+<html>
+<head>
+<title> my website</title>
+<body>
+<h1> design pict</h1>
+<body>
+<img src=" "> 
